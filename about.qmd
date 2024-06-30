@@ -1,0 +1,12 @@
+---
+title: "About"
+author: "Wallstreet Petrus-Nihi"
+---
+
+# **About**
+
+I am Wallstreet Petrus-Nihi (\[GitHub\](https://github.com/Wallstreet111)), a data enthusiast with a passion for uncovering insights from data. Feel free to contact me at \[moyopetrus\@gmail.com\](mailto:moyopetrus\@gmail.com).
+
+This project analyzes smartwatch fitness data, focusing on activity levels, calories burned, and the relationship between different types of activities. You can view the project's code on \[GitHub\](https://github.com/your-github-username/smartwatch-analysis).
+
+This project was created as a part of \[Kane’s Data Science Bootcamp\](https://bootcamp.davidkane.info/).

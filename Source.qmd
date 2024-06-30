@@ -1,0 +1,18 @@
+---
+title: "Source"
+author: "Wallstreet Petrus-Nihi"
+---
+
+\## Source
+
+The data for this project was sourced from Kaggle's "Smartwatch Data Analysis" dataset (\[link\](https://www.kaggle.com/code/amirmotefaker/smartwatch-data-analysis)). This dataset includes detailed information about various smartwatch metrics, including activity levels, calories burned, and heart rate data.
+
+To prepare the data for analysis, I performed the following steps:
+
+1. \*\*Loading the Data\*\*: The dataset was loaded from the provided CSV files into a data frame in R for further processing.
+
+2. \*\*Data Cleaning\*\*: Some entries had missing values which were handled appropriately. I ensured that the data types were consistent and ready for analysis.
+
+3. \*\*Data Filtering\*\*: For specific analyses, such as identifying trends in activity levels or calories burned, I filtered the dataset to include only relevant metrics.
+
+No observations were removed from the dataset unless they contained critical missing information that could not be resolved.
